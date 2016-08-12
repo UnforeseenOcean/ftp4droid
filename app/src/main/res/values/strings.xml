@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ftp4droid</string>
+    <string name="ftp_client">Ftp4client</string>
 </resources>
